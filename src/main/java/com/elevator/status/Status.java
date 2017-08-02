@@ -1,4 +1,4 @@
-package com.elevator;
+package com.elevator.status;
 
 public enum Status {
 	Up,
